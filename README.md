@@ -7,6 +7,10 @@
 Android Version: 13<br> GApps: No<br> Vendor: U2 A12<br> SELinux: Permissive<br>
 Bugs: VoLTE</p>
 
+<p><a href="https://github.com/XanderFromFortnite/A03-Core-customAP/releases/tag/crDroid-9.6">crDroid</a><br>
+Android Version: 13<br> GApps: Yes<br> Vendor: U2 A12<br> SELinux: Permissive<br>
+Bugs: VoLTE, GApps</p>
+
 <p><a href="https://github.com/XanderFromFortnite/A03-Core-customAP/releases/tag/FluidOS-2.7">FluidOS</a><br>
 Android Version: 12<br> GApps: No<br> Vendor: U2 A12<br> SELinux: Permissive<br>
 Bugs: VoLTE, WiFi may not work after reboot, join the telegram for more info.</p>
