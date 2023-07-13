@@ -1,2 +1,2 @@
-# Samsung-A03-customAP
-An repository that has alot, and I mean alot of customAPs
+# Samsung A03 Core customAP
+[Telegram](https://t.me/a03coredev)
