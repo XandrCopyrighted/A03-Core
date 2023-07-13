@@ -4,9 +4,9 @@
 <p><a href="https://github.com/wacko1805/MagiskGapps">GApps (install via Magisk)</a></p>
 <h1 id="customap-s-">CustomAP(s)</h1>
 <p><a href="https://github.com/XanderFromFortnite/A03-Core-customAP/releases/tag/ArrowOS-13.1">ArrowOS</a><br>
-Android 13<br> No GApps<br> Vendor: U2 A12<br> Selinux: Permissive<br>
+Android 13<br> No GApps<br> Vendor: U2 A12<br> SELinux: Permissive<br>
 Bugs: VoLTE</p>
 
 <p><a href="https://github.com/XanderFromFortnite/A03-Core-customAP/releases/tag/FluidOS-2.7">FluidOS</a><br>
-Android 12<br> No GApps<br> Vendor: U2 A12<br> Selinux: Permissive<br>
+Android 12<br> No GApps<br> Vendor: U2 A12<br> SELinux: Permissive<br>
 Bugs: VoLTE</p>
