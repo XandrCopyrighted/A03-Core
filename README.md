@@ -7,6 +7,10 @@
 </p>Android 12: Snow Cone</p>
 </p>Android 13: Tiramisu</p>
 <h1 id="customap-s-">CustomAP(s)</h1>
+<p><a href="https://github.com/XanderFromFortnite/A03-CoreGSI/releases/tag/Lineage-20">LineageOS 20</a><br>
+Android Version: 13<br> GApps: Yes<br> Vendor: U2 A12<br> SELinux: Permissive<br>
+Bugs: VoLTE (give up)</p>
+
 <p><a href="https://github.com/XanderFromFortnite/A03-Core-customAP/releases/tag/AncientOS-7.0">AncientOS 7.0</a><br>
 Android Version: 13<br> GApps: No<br> Vendor: U2 A12<br> SELinux: Permissive<br>
 Bugs: VoLTE, and WiFi may not work after reboot, join the Telegram for more info.</p>
