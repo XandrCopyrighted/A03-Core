@@ -3,13 +3,14 @@
 <p><a href="https://github.com/wacko1805/MagiskGapps">GApps</a></p>
 <p><a href="https://github.com/XanderFromFortnite/A03-Core-customAP/releases/tag/Magisk">Magisk .tar</a></p>
 <p><a href="https://github.com/XanderFromFortnite/A03-CoreGSI/releases/tag/vbmeta">vbmeta .tar</a></p>
+<p>Android 11: Red Velvet Cake, Android 12: Snow Cone, Android 13: Tiramisu</p>
 <h1 id="customap-s-">CustomAP(s)</h1>
 <p><a href="https://github.com/XanderFromFortnite/A03-Core-customAP/releases/tag/AncientOS-7.0">AncientOS 7.0</a><br>
 Android Version: 13<br> GApps: No<br> Vendor: U2 A12<br> SELinux: Permissive<br>
 Bugs: VoLTE, and WiFi may not work after reboot, join the Telegram for more info.</p>
 
 <p><a href="https://github.com/XanderFromFortnite/A03-CoreGSI/releases/tag/AncientOS-6.2">AncientOS 6.2</a><br>
-Android Version: 12 Snow Cone<br> GApps: No<br> Vendor: U2 A12<br> SELinux: Permissive<br>
+Android Version: 12<br> GApps: No<br> Vendor: U2 A12<br> SELinux: Permissive<br>
 Bugs: VoLTE</p>
 
 <p><a href="https://github.com/XanderFromFortnite/A03-Core-customAP/releases/tag/ArrowOS-13.1">ArrowOS</a><br>
