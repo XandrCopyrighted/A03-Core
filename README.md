@@ -16,7 +16,7 @@ Bugs: VoLTE, and WiFi may not work after reboot, join the Telegram for more info
 
 <p><a href="https://github.com/XanderFromFortnite/A03-CoreGSI/releases/tag/palyrim-13">Palyrim OS 13</a><br>
 Android Version: 13<br> GApps: No<br> Vendor: U2 A12<br> SELinux: Permissive<br>
-Bugs: VoLTE (give up)</p>
+Bugs: VoLTE (give up), Performance</p>
 
 <p><a href="https://github.com/XanderFromFortnite/A03-CoreGSI/releases/tag/AncientOS-6.2">AncientOS 6.2</a><br>
 Android Version: 12<br> GApps: No<br> Vendor: U2 A12<br> SELinux: Permissive<br>
