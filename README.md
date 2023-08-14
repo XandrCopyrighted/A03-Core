@@ -9,8 +9,8 @@ Android Version: 13<br> GApps: No<br> Vendor: U2 A12<br> SELinux: Permissive<br>
 Bugs: VoLTE, and WiFi may not work after reboot, join the Telegram for more info.</p>
 
 <p><a href="https://github.com/XanderFromFortnite/A03-CoreGSI/releases/tag/AncientOS-6.2">AncientOS 6.2</a><br>
-Android Version: 12.0 Snow Cone<br> GApps: No<br> Vendor: U2 A12<br> SELinux: Permissive<br>
-Bugs: VoLTE (give up), You tell me</p>
+Android Version: 12 Snow Cone<br> GApps: No<br> Vendor: U2 A12<br> SELinux: Permissive<br>
+Bugs: VoLTE</p>
 
 <p><a href="https://github.com/XanderFromFortnite/A03-Core-customAP/releases/tag/ArrowOS-13.1">ArrowOS</a><br>
 Android Version: 13<br> GApps: No<br> Vendor: U2 A12<br> SELinux: Permissive<br>
