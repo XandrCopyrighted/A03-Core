@@ -1,10 +1,7 @@
-<h1 id="samsung-a03-core-customap">Samsung A03 Core customAP</h1>
-<h2 id="-telegram-https://t.me/A03COREDevelopement/1-linktree-https-linktr-ee-xandrcopyrighted-"><a href="https://t.me/A03COREDevelopement/1">Telegram</a> <a href="https://linktr.ee/XandrCopyrighted">Linktree</a></h2>
+<h1 id="samsung-a03-core-customap">Samsung A03 Core</h1>
+<div> <a href="https://rebrand.ly/xXLinks" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a> <a href = "https://t.me/A03COREDevelopement/1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 <p><a href="https://github.com/wacko1805/MagiskGapps">GApps</a></p>
 <p><a href="https://github.com/XanderFromFortnite/A03-Core-customAP/releases/tag/Magisk">Magisk .tar</a></p>
-<p><a href="https://github.com/XanderFromFortnite/A03-CoreGSI/releases/tag/vbmeta">vbmeta .tar</a></p>
-</p>Android 12: Snow Cone</p>
-</p>Android 13: Tiramisu</p>
 <h1 id="customap-s-">CustomAP(s)</h1>
 <p><a href="https://github.com/XanderFromFortnite/A03-CoreGSI/releases/tag/Lineage-20">LineageOS 20</a><br>
 Android Version: 13<br> GApps: Yes<br> Vendor: U2 A12<br> SELinux: Permissive<br>
