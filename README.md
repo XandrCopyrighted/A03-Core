@@ -1,4 +1,4 @@
-# This repo is outdated, use [this](https://github.com/be4zad/repacksuper-docker)
+### Note: this repo are pre-made roms, if you have a rom you want but isn't on this list, use [this](https://github.com/be4zad/repacksuper-docker)
 
 <h1 id="samsung-a03-core-customap">Samsung A03 Core</h1>
 <div> <a href="https://rebrand.ly/xXLinks" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a> <a href = "https://t.me/A03COREDevelopement/1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> <a href = "https://github.com/wacko1805/MagiskGapps"><img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
